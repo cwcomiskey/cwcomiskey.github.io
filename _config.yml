@@ -1,2 +1,4 @@
 name: Chris Comiskey, Statistician
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
