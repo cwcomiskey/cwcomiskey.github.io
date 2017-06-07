@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chris Comiskey, Statistician, uses R Markdown'"
+title: "R Markdown. Beautiful."
 date: 2017-06-07
 ---
 Check out this 
